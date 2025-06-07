@@ -1,0 +1,201 @@
+ID;Delivery_id;Actual_delivery_date;Status
+1;1;2025-02-13;Delivered on time
+2;2;2025-02-10;Delivered on time
+3;3;2025-01-14;Delivered late
+4;4;NULL;In transit
+5;5;2025-03-16;Delivered late
+6;6;2025-02-24;Delivered on time
+7;7;2025-02-01;Delivered late
+8;8;2025-03-06;Delivered late
+9;9;2025-01-11;Delivered on time
+10;10;2025-03-19;Delivered on time
+11;11;2025-01-09;Delivered on time
+12;12;2025-02-13;Delivered on time
+13;13;2025-03-04;Delivered on time
+14;14;2025-03-18;Delivered on time
+15;15;2025-02-24;Delivered on time
+16;16;2025-02-17;Delivered on time
+17;17;2025-01-07;Delivered on time
+18;18;2025-01-16;Delivered on time
+19;19;2025-01-20;Delivered on time
+20;20;NULL;In transit
+21;21;2025-03-14;Delivered late
+22;22;2025-02-02;Delivered on time
+23;23;2025-02-20;Delivered on time
+24;24;2025-02-24;Delivered late
+25;25;2025-03-16;Delivered on time
+26;26;2025-01-15;Delivered late
+27;27;2025-01-11;Delivered late
+28;28;2025-03-13;Delivered late
+29;29;2025-01-24;Delivered on time
+30;30;2025-02-24;Delivered late
+31;31;2025-01-12;Delivered late
+32;32;2025-03-19;Delivered on time
+33;33;2025-04-02;Delivered late
+34;34;2025-03-29;Delivered on time
+35;35;2025-01-14;Delivered late
+36;36;2025-01-13;Delivered on time
+37;37;NULL;In transit
+38;38;2025-02-07;Delivered on time
+39;39;2025-02-11;Delivered on time
+40;40;2025-03-13;Delivered on time
+41;41;2025-01-14;Delivered on time
+42;42;2025-03-22;Delivered late
+43;43;2025-02-07;Delivered on time
+44;44;NULL;In transit
+45;45;2025-01-07;Delivered late
+46;46;2025-01-23;Delivered on time
+47;47;2025-01-03;Delivered on time
+48;48;2025-01-24;Delivered on time
+49;49;2025-03-16;Delivered late
+50;50;2025-02-17;Delivered on time
+51;51;NULL;In transit
+52;52;2025-03-01;Delivered late
+53;53;2025-01-24;Delivered late
+54;54;NULL;In transit
+55;55;2025-04-02;Delivered late
+56;56;2025-03-03;Delivered on time
+57;57;2025-02-15;Delivered on time
+58;58;2025-01-27;Delivered on time
+59;59;2025-02-06;Delivered on time
+60;60;2025-03-12;Delivered on time
+61;61;2025-02-04;Delivered on time
+62;62;2025-03-21;Delivered on time
+63;63;NULL;In transit
+64;64;2025-03-16;Delivered on time
+65;65;2025-01-06;Delivered on time
+66;66;2025-03-30;Delivered late
+67;67;2025-04-01;Delivered late
+68;68;2025-02-11;Delivered on time
+69;69;2025-02-23;Delivered on time
+70;70;2025-03-31;Delivered on time
+71;71;2025-02-28;Delivered late
+72;72;NULL;In transit
+73;73;2025-03-28;Delivered on time
+74;74;2025-01-23;Delivered on time
+75;75;NULL;In transit
+76;76;2025-02-03;Delivered on time
+77;77;2025-01-05;Delivered on time
+78;78;NULL;In transit
+79;79;2025-01-29;Delivered on time
+80;80;2025-03-26;Delivered on time
+81;81;2025-01-28;Delivered on time
+82;82;2025-01-18;Delivered on time
+83;83;NULL;In transit
+84;84;2025-03-26;Delivered late
+85;85;2025-03-04;Delivered late
+86;86;2025-02-04;Delivered on time
+87;87;NULL;In transit
+88;88;2025-02-08;Delivered late
+89;89;NULL;In transit
+90;90;2025-04-03;Delivered on time
+91;91;2025-03-15;Delivered on time
+92;92;NULL;In transit
+93;93;NULL;In transit
+94;94;2025-02-10;Delivered on time
+95;95;NULL;In transit
+96;96;NULL;In transit
+97;97;2025-03-31;Delivered on time
+98;98;2025-01-22;Delivered on time
+99;99;2025-03-22;Delivered on time
+100;100;2025-01-23;Delivered late
+101;101;2025-02-11;Delivered on time
+102;102;2025-02-20;Delivered on time
+103;103;2025-03-03;Delivered on time
+104;104;NULL;In transit
+105;105;2025-01-06;Delivered on time
+106;106;2025-03-23;Delivered on time
+107;107;2025-01-19;Delivered on time
+108;108;NULL;In transit
+109;109;NULL;In transit
+110;110;2025-03-19;Delivered on time
+111;111;NULL;In transit
+112;112;2025-04-01;Delivered on time
+113;113;2025-01-08;Delivered on time
+114;114;2025-01-12;Delivered on time
+115;115;2025-03-04;Delivered on time
+116;116;2025-03-01;Delivered on time
+117;117;NULL;In transit
+118;118;2025-02-28;Delivered on time
+119;119;2025-01-13;Delivered on time
+120;120;2025-03-19;Delivered on time
+121;121;2025-02-13;Delivered on time
+122;122;2025-02-05;Delivered on time
+123;123;2025-02-08;Delivered on time
+124;124;NULL;In transit
+125;125;2025-02-02;Delivered on time
+126;126;2025-01-15;Delivered on time
+127;127;2025-02-13;Delivered on time
+128;128;NULL;In transit
+129;129;2025-03-04;Delivered late
+130;130;2025-01-26;Delivered on time
+131;131;2025-04-01;Delivered on time
+132;132;2025-02-08;Delivered on time
+133;133;2025-01-18;Delivered late
+134;134;2025-02-09;Delivered on time
+135;135;2025-01-10;Delivered on time
+136;136;2025-03-29;Delivered late
+137;137;2025-02-13;Delivered late
+138;138;NULL;In transit
+139;139;2025-02-24;Delivered on time
+140;140;2025-01-07;Delivered on time
+141;141;2025-02-09;Delivered on time
+142;142;2025-02-28;Delivered on time
+143;143;2025-03-05;Delivered late
+144;144;2025-03-01;Delivered late
+145;145;NULL;In transit
+146;146;2025-01-23;Delivered on time
+147;147;2025-01-08;Delivered late
+148;148;2025-02-11;Delivered late
+149;149;2025-04-02;Delivered on time
+150;150;2025-02-06;Delivered on time
+151;151;2025-02-03;Delivered late
+152;152;2025-01-10;Delivered on time
+153;153;2025-03-16;Delivered on time
+154;154;2025-02-14;Delivered late
+155;155;NULL;In transit
+156;156;2025-02-19;Delivered late
+157;157;2025-04-02;Delivered on time
+158;158;NULL;In transit
+159;159;2025-01-27;Delivered on time
+160;160;NULL;In transit
+161;161;2025-03-04;Delivered on time
+162;162;2025-02-11;Delivered on time
+163;163;NULL;In transit
+164;164;2025-01-08;Delivered on time
+165;165;2025-01-17;Delivered on time
+166;166;2025-03-31;Delivered on time
+167;167;NULL;In transit
+168;168;2025-01-09;Delivered on time
+169;169;2025-02-09;Delivered on time
+170;170;2025-03-26;Delivered on time
+171;171;2025-03-12;Delivered on time
+172;172;2025-01-19;Delivered on time
+173;173;2025-03-08;Delivered on time
+174;174;2025-03-07;Delivered on time
+175;175;2025-02-19;Delivered on time
+176;176;2025-01-10;Delivered on time
+177;177;2025-03-09;Delivered on time
+178;178;2025-03-20;Delivered on time
+179;179;NULL;In transit
+180;180;2025-03-15;Delivered on time
+181;181;2025-01-26;Delivered on time
+182;182;2025-02-23;Delivered on time
+183;183;NULL;In transit
+184;184;2025-01-22;Delivered on time
+185;185;NULL;In transit
+186;186;2025-01-23;Delivered on time
+187;187;2025-02-04;Delivered on time
+188;188;2025-02-18;Delivered late
+189;189;2025-03-07;Delivered on time
+190;190;NULL;In transit
+191;191;NULL;In transit
+192;192;2025-01-07;Delivered late
+193;193;2025-02-16;Delivered on time
+194;194;2025-02-25;Delivered on time
+195;195;2025-03-24;Delivered on time
+196;196;2025-01-20;Delivered on time
+197;197;NULL;In transit
+198;198;2025-03-15;Delivered late
+199;199;2025-03-22;Delivered late
+200;200;NULL;In transit
